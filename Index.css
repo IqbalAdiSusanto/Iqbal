@@ -1,0 +1,40 @@
+*,
+html{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #9a9a9a;
+}
+
+nav {
+  background-color: white;
+  display: flex;
+  box-shadow: 0 0 10px 5px;
+}
+
+tittle1{
+  position: relative;
+  top: -140px;
+  left: 50px;
+  font-size: 3rem;
+}
+
+tittle2{
+  position: relative;
+  top: -140px;
+  left: 550px;
+  font-size: 3rem;
+}
+tittle{
+  position: relative;
+  top: -140px;
+  left: 460px;
+  font-size: 2.3rem;
+}
+
+hr{
+ width: ;
+}
